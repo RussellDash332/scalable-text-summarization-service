@@ -1,0 +1,11 @@
+__pycache__
+aws
+bin
+env.py
+etc
+include
+lib
+lib64
+pyvenv.cfg
+share
+*.zip

@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-core
+tiktoken
+openai
+streamlit
+boto3
+botocore
